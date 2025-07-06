@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @TheSilentPatch
 - 👀 I’m interested in <b>Science, Web Development and Problem-solving with Python and Javascript</b>
-- 🌱 I’m currently learning <strong>Python, Javascript, SQL</strong> and <b>C++</b>
+- 🌱 I’m currently learning <strong>Advanced Python</strong> and <b>C++</b>
 - 📫 How to reach me: [Discord](https://discordapp.com/users/1068471340002197575)
 - 😄 Pronouns: You, He, Him.
 <!---
